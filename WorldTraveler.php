@@ -67,3 +67,4 @@ echo "\n Riel to USD : $cambodiaRiel" . "USD";
 echo "\n Kyat to USD : $mayanmarKyat" . "USD";
 echo "\n Krones to USD : $norwayKrones" . "USD";
 echo "\n Lek to USD : $albaniaLek" . "USD";
+?>
