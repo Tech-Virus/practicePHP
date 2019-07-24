@@ -1,2 +1,2 @@
 # practicePHP
-Just tinkering with php
+Simple Practice program to convert currency to USD
