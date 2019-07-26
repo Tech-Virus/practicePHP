@@ -1,2 +1,2 @@
 # practicePHP
-just tikering with PHP
+just tinkering with PHP
